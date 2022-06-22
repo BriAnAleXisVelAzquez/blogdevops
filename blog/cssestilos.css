@@ -1,0 +1,92 @@
+/* cabeza ------------ */
+.cabeza{
+    background-image: url("https://us.123rf.com/450wm/sputanski/sputanski1606/sputanski160600010/60393187-resumen-de-vectores-de-colores-de-fondo-material-de-la-plaza-para-el-sitio-web-tel%C3%A9fono-impresi%C3%B3n-y-.jpg?ver=6");
+    background-repeat: no-repeat;
+    background-size: 1330px 500px;
+}
+.cabeza{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+   height: 200px;
+   width: 900%;
+   padding-left: 550px;
+   padding-top: 100px;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+   
+/*info----------------------*/
+
+.info{
+    font-family: 'Raleway', sans-serif;
+    list-style-type: square;
+}
+/*h2------------------*/
+.h2{
+   
+    font-family: 'Gideon Roman', cursive;
+}
+
+/*art1-------------------------------*/
+.art1{
+    font-family: 'Gideon Roman', cursive;
+    font-size: 100%;
+    
+    
+}
+
+/*art2-----------------------------------*/
+.art2{
+    font-family: 'Gideon Roman', cursive;
+    font-size: 100%;
+    
+}
+
+
+/*imagen------------------------------------*/
+.imagen{    
+    max-width: 100%;
+    float: right;
+    width: 40%;
+}
+
+/*h3-----------------------------------*/
+.h3{
+    font-family: 'Gideon Roman', cursive;
+    
+    font-size: 150%;
+}
+
+/*articulo3----------------------------------*/
+.articulo3{
+    
+    font-family: 'Gideon Roman', cursive;
+    font-size: 100%;
+}
+
+/*h4-----------------------------------------------*/
+.h4{
+    font-family: 'Gideon Roman', cursive;
+    font-size: 150%;
+}
+
+/*articulo4-------------------------------------------*/
+.articulo4{
+    font-size: 100%;
+    
+    font-family: 'Gideon Roman', cursive;
+}
+
+/*footer--------------------------------------------------*/
+.footer{
+    
+    font-family: 'Raleway', sans-serif;
+    border-color: black;
+}
+
+/*fondoglobal---------------------------------------------*/
+
+
+
+/*conocenos.html-----------------------------------------------*/
